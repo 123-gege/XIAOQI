@@ -39,7 +39,7 @@ To support the research community, we have open-sourced DeepSeek-R1-Zero, DeepSe
 
 ## 3. Model Downloads
 
- DeepSeek-R1 Models
+### DeepSeek-R1 Models
 
 <div align="center">
 
